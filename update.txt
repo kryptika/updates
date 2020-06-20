@@ -1,11 +1,19 @@
+<Version: 0.0.9>
+/data/o.o.9.rar https://wordpress.org/latest.rar
+<End of Version>
+
+<Version: 0.0.8>
+/data/o.o.8.rar https://wordpress.org/latest.rar
+<End of Version>
+
+<Version: 0.0.7>
+/data/o.o.7.rar https://wordpress.org/latest.rar
+<End of Version>
+
 <Version: 0.0.6>
-/data/o.o.6.rar https://wordpress.org/latest.zip
+/data/o.o.6.rar https://wordpress.org/latest.rar
 <End of Version>
 
-<Version: 0.0.5>
-/data/o.o.5.rar https://wordpress.org/latest.zip
-<End of Version>
-
-<Version: 0.0.4>
-/data/o.o.4.rar https://wordpress.org/latest.zip
+<Version: 0.2.5>
+/data/o.2.5.rar https://wordpress.org/latest.rar
 <End of Version>
